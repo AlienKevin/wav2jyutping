@@ -1,0 +1,11 @@
+*.bin
+.DS_Store
+*.wav
+*.mp3
+whisper-base-jyutping-without-tones-full/
+whisper-small-jyutping-without-tones/
+whisper-tiny-jyutping-without-tones-full/
+whisper-tiny-jyutping-without-tones/
+yue/
+yue_common_voice/
+flagged/
