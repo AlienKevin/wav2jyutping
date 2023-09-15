@@ -3,6 +3,7 @@
 *.wav
 *.mp3
 whisper-base-jyutping-without-tones-full/
+whisper-base-jyutping-without-tones-full-merged/
 whisper-small-jyutping-without-tones/
 whisper-tiny-jyutping-without-tones-full/
 whisper-tiny-jyutping-without-tones/
