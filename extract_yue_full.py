@@ -24,5 +24,6 @@ def build_transcription(input_path, transcription_path) -> list[str]:
         return audio_paths
 
 if __name__ == '__main__':
-    build_transcription("yue/other.tsv", "other.csv")
+    # build_transcription("yue/other.tsv", "other.csv")
     # build_transcription("data/test.tsv", "test.csv")
+    build_transcription("zh-HK/validated.tsv", "validated-zh-HK.csv")

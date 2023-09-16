@@ -4,9 +4,11 @@
 *.mp3
 whisper-base-jyutping-without-tones-full/
 whisper-base-jyutping-without-tones-full-merged/
+whisper-base-jyutping-without-tones-full-zh-HK/
 whisper-small-jyutping-without-tones/
 whisper-tiny-jyutping-without-tones-full/
 whisper-tiny-jyutping-without-tones/
 yue/
 yue_common_voice/
+zh-HK/
 flagged/
